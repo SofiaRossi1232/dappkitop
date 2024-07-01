@@ -1,19 +1,69 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of World Wars with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "When did WWI start?",
+      "answers": ["1914", "1939", "1918"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who led Germany in WWII?",
+      "answers": ["Hitler", "Stalin", "Churchill"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What was the D-Day?",
+      "answers": ["Invasion", "Retreat", "Treaty"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which ship sank in 1912?",
+      "answers": ["Titanic", "Bismarck", "Arizona"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was the Blitz?",
+      "answers": ["Bombing", "Battle", "Treaty"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was UK PM in WWII?",
+      "answers": ["Churchill", "Thatcher", "Blair"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where was Pearl Harbor?",
+      "answers": ["Hawaii", "Alaska", "Florida"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What ended WWI?",
+      "answers": ["Treaty", "Victory", "Surrender"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who were Axis Powers?",
+      "answers": ["Germany", "UK", "US"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which city was atomic bombed?",
+      "answers": ["Hiroshima", "Tokyo", "Kyoto"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "When did WWII end?",
+      "answers": ["1945", "1941", "1939"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was US President in WWI?",
+      "answers": ["Wilson", "Roosevelt", "Truman"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was VE Day?",
+      "answers": ["Victory", "Invasion", "Surrender"],
       "correctAnswerIndex": 0
     }
   ]
